@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Course #5 - Algorithms \u0026 Problem-Solving \u2013 Level 2\\Project 1 suiiiiiiiiiii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075B1777-1316-4D2F-A087-A2A8CE7C59BA}|Project 1 suiiiiiiiiiii.vcxproj|C:\\Course #5 - Algorithms \u0026 Problem-Solving \u2013 Level 2\\Project 1 suiiiiiiiiiii\\Project 1 suiiiiiiiiiii.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{075B1777-1316-4D2F-A087-A2A8CE7C59BA}|Project 1 suiiiiiiiiiii.vcxproj|solutionrelative:Project 1 suiiiiiiiiiii.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 1 suiiiiiiiiiii.cpp",
+              "DocumentMoniker": "C:\\Course #5 - Algorithms \u0026 Problem-Solving \u2013 Level 2\\Project 1 suiiiiiiiiiii\\Project 1 suiiiiiiiiiii.cpp",
+              "RelativeDocumentMoniker": "Project 1 suiiiiiiiiiii.cpp",
+              "ToolTip": "C:\\Course #5 - Algorithms \u0026 Problem-Solving \u2013 Level 2\\Project 1 suiiiiiiiiiii\\Project 1 suiiiiiiiiiii.cpp",
+              "RelativeToolTip": "Project 1 suiiiiiiiiiii.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAArwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-25T11:55:54.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
